@@ -1,0 +1,69 @@
+
+Fonts
+     font-family: "Poppins", sans-serif;
+     font-family: "Roboto", sans-serif;
+
+     pop 400 700 500
+     roboto 400
+     
+c - p 400
+
+color
+     red - #FD511A
+     gre - #21B573
+     bla - #000000
+
+     c - #000000
+
+
+     xxl-xl-lg   md   sm-col
+     header
+     banner
+     padding(pb): 65px   65px   60px
+
+     size-
+     order-
+     space-
+     responsive-
+
+
+     button
+     section title
+     feature item
+     course item
+     testimony
+
+     padding: 100-120    80-100    50-60
+
+     alignment
+     order
+     size
+     space
+
+     xxl-xl=lg   md   sm-col
+     header-
+
+     banner
+     pb: 65px 65px 60px
+     h1: 48   40   30
+
+     course ===
+
+     h1 36      30       25
+
+     h2 24      24         
+
+
+     Course
+Graphic Design
+Web Design
+Business
+Marketing
+
+
+Terms
+Graphic Design
+Web Design
+Business
+Marketing
+Engineering
